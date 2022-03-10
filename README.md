@@ -8,7 +8,7 @@ The purpose of this project is to design a Neural Network Model to make the deci
 
 ### Data Preprocessing
 
-Inspecting the data we established the target variable as *"IS_SUCCESSFUL"* column. Then we removed the "EIN" and "NAME" columns as they did not offer any relevant data that could help the model perform better.
+Inspecting the data we established the target variable as *"IS_SUCCESSFUL"* column. Then we removed the *"EIN*" and *"NAME"* columns as they did not offer any relevant data that could help the model perform better.
 
 ### Compiling, Training, and Evaluating the Model
 
